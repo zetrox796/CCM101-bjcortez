@@ -22,7 +22,7 @@ This laboratory investigates cloud infrastructure components. The mission requir
 * Linux terminal tools
 * Official cloud provider documentation
 * GitHub
-* Figma 
+* draw.io 
 
 ## Linux Commands Executed
 * `cat /etc/os-release`: Shows operating system details.
@@ -31,9 +31,9 @@ This laboratory investigates cloud infrastructure components. The mission requir
 * `nproc`: Counts the number of processing cores.
 * `free -h`: Displays available and used RAM.
 * `df -h`: Shows disk storage capacity.
-* `lsblk`: Lists active connected drives.
+* `lsblk`: 
 * `hostname`: Prints the computer network name.
-* `hostname -I`: Shows network interface details and IP addresses.
+* `hostname -I`: 
 
 ## Skills Learned
 * I learned to inspect server hardware using Linux terminal commands.
