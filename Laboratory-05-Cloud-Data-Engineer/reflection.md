@@ -1,0 +1,10 @@
+## Checkpoint 6 - Mission Reflection
+Object storage handles millions of photos better than block storage because block storage breaks data into pieces for fast operating system access and block storage struggles with large amounts of unstructured data such as images. Object storage keeps the photo intact. By adding tags and metadata to find files quickly which is data that describes other data, object storage’s flat structure scales up easily. Object storage grows smoothly even when users are uploading pictures.
+
+Docker makes deploying the MinIO storage server. A single command downloads the software. Starts the environment so we do not need to configure complex settings manually. Docker packages everything into one running container. Because this isolated environment prevents conflicts with the host system Docker saves time. Reduces installation errors.
+
+A bucket acts as a storage container in the cloud that holds data objects such as text files and images. You cannot place a bucket inside another bucket. However you can assign rules to a bucket to control who sees the data inside allowing you to group related files into a bucket to keep projects organized.
+
+Large companies protect their data through replication by copying the same bucket across multiple physical servers that they place in different geographic locations. A fire or power outage at one data center will not destroy the files. If one machine crashes another server takes over immediately so this keeps user photos safe and online at all times.
+
+My confidence, in using the Linux command line is growing. I use commands to inspect cloud servers and run Docker containers. I understand how environment variables change command behaviors. Writing Markdown files to document my steps reinforces Linux command line learning. I can navigate file systems. Troubleshoot errors faster, which makes me feel much more comfortable managing cloud server environments now.
