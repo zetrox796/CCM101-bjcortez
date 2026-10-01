@@ -18,4 +18,4 @@ Port 9001 accesses the web console.
 client-photos is the name of the bucket
 
 # Environment Variables Explanation
-The -e flags pass environment variables to the container. They configure the root username and password. This secures the MinIO server and enables administrator login.
+The -e flags pass environment variables to the container. They configure the root username and password. This secures the MinIO server and enables administrator login.      
